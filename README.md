@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/izaguerreiro/izaguerreiro/blob/master/my-octocat.png)
+
 <!--
 **izaguerreiro/izaguerreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
